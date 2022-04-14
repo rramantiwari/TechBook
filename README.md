@@ -15,7 +15,6 @@ This internship program wass a collaborative effort by various companies: [Micro
 - `AICTE` helped to ensure that the curriculum is aligned to the **National Education Policy(NEP), 2020**.
 - `SSC Nasscom` ensured that the relevant courses are aligned with National Occupational Standards and linked these courses on Future Skills Prime. 
 
-<hr>
 #FRT 
 this project general a book store which is provide engineering student to download there practical project.
 the video Demo link for the project is :
